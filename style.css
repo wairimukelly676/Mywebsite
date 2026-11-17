@@ -1,0 +1,13 @@
+body {
+    text-align:center;
+    font-family:Arial;
+    background:#f4f4f7;
+}
+h1{color:#e81ab1; }
+button {
+    padding:10px 20px;
+    background: purple;
+    color:white;
+    border:0cap;
+    border-radius:10px;
+}
